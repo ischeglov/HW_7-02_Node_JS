@@ -1,0 +1,29 @@
+{
+  "name": "hw_7-02_node_js",
+  "version": "1.0.0",
+  "description": "Creating a project for lesson “7.2. Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ischeglov/HW_7-02_Node_JS.git"
+  },
+  "keywords": [
+    "HW",
+    "Netology"
+  ],
+  "author": "Ivan Shcheglov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ischeglov/HW_7-02_Node_JS/issues"
+  },
+  "homepage": "https://github.com/ischeglov/HW_7-02_Node_JS#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.11.1",
+    "eslint": "^9.11.1",
+    "globals": "^15.10.0",
+    "prettier": "^3.3.3"
+  }
+}
